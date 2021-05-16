@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.js": "/react-realestate/static/js/main.e085c538.chunk.js",
+    "main.js.map": "/react-realestate/static/js/main.e085c538.chunk.js.map",
+    "runtime-main.js": "/react-realestate/static/js/runtime-main.80d5a923.js",
+    "runtime-main.js.map": "/react-realestate/static/js/runtime-main.80d5a923.js.map",
+    "static/js/2.58d5cdb5.chunk.js": "/react-realestate/static/js/2.58d5cdb5.chunk.js",
+    "static/js/2.58d5cdb5.chunk.js.map": "/react-realestate/static/js/2.58d5cdb5.chunk.js.map",
+    "index.html": "/react-realestate/index.html",
+    "static/js/2.58d5cdb5.chunk.js.LICENSE.txt": "/react-realestate/static/js/2.58d5cdb5.chunk.js.LICENSE.txt",
+    "static/media/01.53891721.jpg": "/react-realestate/static/media/01.53891721.jpg",
+    "static/media/01.73c2e9de.jpg": "/react-realestate/static/media/01.73c2e9de.jpg",
+    "static/media/01.9d7c659d.jpg": "/react-realestate/static/media/01.9d7c659d.jpg",
+    "static/media/02.1759da98.jpg": "/react-realestate/static/media/02.1759da98.jpg",
+    "static/media/02.72aaab8f.jpg": "/react-realestate/static/media/02.72aaab8f.jpg",
+    "static/media/02.c22d2c43.jpg": "/react-realestate/static/media/02.c22d2c43.jpg",
+    "static/media/03.6f0125ec.jpg": "/react-realestate/static/media/03.6f0125ec.jpg",
+    "static/media/03.c95c05dc.jpg": "/react-realestate/static/media/03.c95c05dc.jpg",
+    "static/media/04.7b46f6ee.jpg": "/react-realestate/static/media/04.7b46f6ee.jpg",
+    "static/media/05.c50982d4.jpg": "/react-realestate/static/media/05.c50982d4.jpg",
+    "static/media/06.c4f9d0e6.jpg": "/react-realestate/static/media/06.c4f9d0e6.jpg",
+    "static/media/07.142ce1ca.jpg": "/react-realestate/static/media/07.142ce1ca.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80d5a923.js",
+    "static/js/2.58d5cdb5.chunk.js",
+    "static/js/main.e085c538.chunk.js"
+  ]
+}
